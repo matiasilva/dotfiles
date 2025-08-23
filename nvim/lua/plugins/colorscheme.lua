@@ -1,9 +1,9 @@
 return {
-  { "loctvl842/monokai-pro.nvim" },
-  {
-    "LazyVim/LazyVim",
-    opts = {
-      colorscheme = "monokai-pro",
+    { "https://git.sr.ht/~p00f/alabaster.nvim" },
+    {
+        "LazyVim/LazyVim",
+        opts = {
+            colorscheme = "alabaster",
+        },
     },
-  },
 }
