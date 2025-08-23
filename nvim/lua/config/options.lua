@@ -5,5 +5,4 @@
 local opt = vim.opt
 
 opt.relativenumber = false
-opt.colorcolumn = "80 120" -- highlight the 120th column
 opt.spell = false -- don't spell check, it's far too error prone
