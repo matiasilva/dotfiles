@@ -1,3 +1,3 @@
 return {
-  { "echasnovski/mini.align", version = "*", config = true },
+  { "nvim-mini/mini.align", version = "*", config = true },
 }
