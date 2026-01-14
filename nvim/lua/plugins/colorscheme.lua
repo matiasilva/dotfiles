@@ -1,5 +1,5 @@
 return {
-    { "https://git.sr.ht/~p00f/alabaster.nvim" },
+    { "git@github.com:p00f/alabaster.nvim.git" },
     {
         "LazyVim/LazyVim",
         opts = {
