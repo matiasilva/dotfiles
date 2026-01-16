@@ -1,9 +1,11 @@
 return {
-    { "git@github.com:p00f/alabaster.nvim.git" },
-    {
-        "LazyVim/LazyVim",
-        opts = {
-            colorscheme = "alabaster",
-        },
+  { "oskarnurm/koda.nvim", opts = {
+    transparent = true,
+  } },
+  {
+    "LazyVim/LazyVim",
+    opts = {
+      colorscheme = "koda",
     },
+  },
 }
